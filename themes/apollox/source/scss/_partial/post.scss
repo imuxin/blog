@@ -5,7 +5,7 @@
 .post-block {
     .post-title {
         margin: 0.65em 0;
-        color: #2c3e50;
+        color: #42b983;
         font-size: 2.2em;
     }
 
@@ -102,7 +102,7 @@
         position: relative;
         margin: 2em 0;
         padding: 12px 24px 12px 30px;
-        border-left: 4px solid #f66;
+        border-left: 4px solid #28a745;
         border-top-right-radius: 2px;
         border-bottom-right-radius: 2px;
         background-color: #f8f8f8;
@@ -110,11 +110,17 @@
             display: none;
         }
     }
+    .tip.warn {
+        border-left: 4px solid #ffc107;
+    }
+    .tip.error {
+        border-left: 4px solid #f66;
+    }
     .tip:before {
         position: absolute;
         top: 14px;
         left: -12px;
-        content: "!";
+        content: "";
         width: 20px;
         height: 20px;
         border-radius: 100%;
@@ -123,8 +129,22 @@
         line-height: 20px;
         font-weight: bold;
         text-align: center;
+        background-color: #28a745;
+        font-family: 'Hack Nerd Font', 'Helvetica Neue', Arial, sans-serif;
+    }
+    .tip.warn:before {
+        content: "";
+        padding: 1px;
+        left: -13px;
+        border-radius: 20%;
+        background-color: #ffc107;
+    }
+    .tip.error::before {
+        content: '';
+        padding: 1px;
+        left: -13px;
+        border-radius: 20%;
         background-color: #f66;
-        font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
     }
 }
 
@@ -145,7 +165,7 @@ code,
 pre {
     font-size: 0.8em;
     background-color: #f8f8f8;
-    font-family: 'Roboto Mono', Monaco, courier, monospace;
+    font-family: 'Roboto Mono', Monaco, courier, monospace, 'Hack Nerd Font';
 }
 
 .highlight {
