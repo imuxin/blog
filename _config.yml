@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: WeShare
+title: iMuxin's Blog
 subtitle:
 description:
 keywords:
@@ -14,7 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.slicloud.com:38876/
-root: /weshare/
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -78,9 +78,6 @@ theme: apollox
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/iweshare/weshare.git
-  breanch: master
 
 archive_generator:
   enabled: true

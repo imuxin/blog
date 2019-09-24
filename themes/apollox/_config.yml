@@ -1,11 +1,11 @@
 menu:
     Articles: /
     Archive: /archives/
-    GitHub: https://github.com/iweshare/weshare
+    GitHub: https://github.com/imuxin/blog
     About: /2019/09/15/About/
 
-favicon: /weshare.png
-logo: /weshare.png
+favicon: /favicon.png
+logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun

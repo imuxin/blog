@@ -2,9 +2,10 @@
 title: About
 date: 2019-09-15 14:49:13
 author: 程庆林
+tags: start
 ---
 
-Welcome to [WeShare](/weshare/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/weshare).
+Welcome to [iMuxin's Blog](/blog/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/blog).
 
 
 
@@ -29,14 +30,14 @@ $ npm install hexo-cli -g
 ### Clone the project and install requirements
 
 ``` bash
-$ git clone https://github.com/iweshare/weshare.git
-$ cd weshare && npm install
+$ git clone https://github.com/imuxin/blog.git
+$ cd blog && npm install
 ```
 
 ### Run server
 
 ``` bash
-$ hexo server
+$ npm run start
 ```
 
 > The command running result will be like this: ![cmd_hexo_server](cmd_hexo_server.png)
