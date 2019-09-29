@@ -37,7 +37,7 @@ I recommend to use [markdown](https://www.markdownguide.org/cheat-sheet/) to wri
    ```bash
    $ hexo new <your_post_title_name>
    ```
-   After the command executed sucessfully, you can see <your_post_title_name>.md and the same name folder under the path `/source/_posts/'. Edit your post content in the markdown file, <your_post_title_name>.md, and once image or other file needed, put them under the same name folder as the post.
+   After the command executed sucessfully, you can see <your_post_title_name>.md and the same name folder under the path `/source/_posts/`. Edit your post content in the markdown file, <your_post_title_name>.md, and once image or other file needed, put them under the same name folder as the post.
 2. Create commit and push it.
    <div class='tip warn'>Before you create commit, you need to generate static files first by using the following command.
    ```bash
