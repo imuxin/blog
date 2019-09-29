@@ -7,6 +7,7 @@
         margin: 0.65em 0;
         color: #42b983;
         font-size: 2.2em;
+        font-family: 'Cascadia Code';
         a {
             color: #42b983;
         }
@@ -43,7 +44,8 @@
             font-weight: bold;
         }
     }
-    h4, h5, h6 {
+    h2, h3, h4, h5, h6 {
+        font-family: 'Cascadia Code';
         a:before {
             content: "";
         }
@@ -133,7 +135,7 @@
         font-weight: bold;
         text-align: center;
         background-color: #28a745;
-        font-family: 'Hack Nerd Font', 'Helvetica Neue', Arial, sans-serif;
+        font-family: 'Helvetica Neue', Arial, sans-serif, 'Hack Nerd Font';
     }
     .tip.warn:before {
         content: "";
