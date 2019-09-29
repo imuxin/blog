@@ -1,8 +1,8 @@
-# WeShare
+# iMuxin's Blog
 
-![logo](/source/_posts/About/favicon.jpg)
+![logo](/source/_posts/About/favicon.png)
 
-Welcome to [WeShare](/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/weshare).
+Welcome to [iMuxin's Blog](/blog/)! This is a fantastic awesome place where you can gain our computing experience conclusion and of course you could share your great thing with us by posting to the [repository](https://github.com/imuxin/blog).
 
 
 
