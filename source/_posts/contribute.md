@@ -47,7 +47,7 @@ I recommend to use [markdown](https://www.markdownguide.org/cheat-sheet/) to wri
 
    ```bash
    $ git add . && git commit -m 'Add a new post, <your_post_title_name>'
-   $ git
+   $ git push -u origin master
    ```
 3. Create pull request to the [origin repository](https://github.com/imuxin/blog). This is a basic usage of GitHub, I will not show the details.
    <div class='tip'>I wish you do sync step to make your repository is the latest to the origin repository.</div>
