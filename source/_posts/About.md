@@ -20,14 +20,6 @@ You need `git`, `node` installed on your operation system. Here, I will not give
     The website is powered by <a href="https://hexo.io/">Hexo</a>. Hexo is a fast, simple and powerful blog framework. You could get some more detail from the Hexo <a href="https://hexo.io/docs/">documentation</a>, if you want to be an expert. If you encounter any problems when using Hexo, have a look at the <a href="https://hexo.io/docs/troubleshooting">troubleshooting guide</a>.
 </div>
 
-<div class="tip warn">
-    The website is powered by <a href="https://hexo.io/">Hexo</a>. Hexo is a fast, simple and powerful blog framework. You could get some more detail from the Hexo <a href="https://hexo.io/docs/">documentation</a>, if you want to be an expert. If you encounter any problems when using Hexo, have a look at the <a href="https://hexo.io/docs/troubleshooting">troubleshooting guide</a>.
-</div>
-
-<div class="tip error">
-    The website is powered by <a href="https://hexo.io/">Hexo</a>. Hexo is a fast, simple and powerful blog framework. You could get some more detail from the Hexo <a href="https://hexo.io/docs/">documentation</a>, if you want to be an expert. If you encounter any problems when using Hexo, have a look at the <a href="https://hexo.io/docs/troubleshooting">troubleshooting guide</a>.
-</div>
-
 ### Install Hexo
 
 ```bash
