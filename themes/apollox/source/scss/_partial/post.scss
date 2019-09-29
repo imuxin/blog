@@ -110,16 +110,18 @@
         border-left: 4px solid #28a745;
         border-top-right-radius: 2px;
         border-bottom-right-radius: 2px;
-        background-color: #f8f8f8;
+        background: #daffee;
         br {
             display: none;
         }
     }
     .tip.warn {
         border-left: 4px solid #ffc107;
+        background: #fff21817;
     }
     .tip.error {
         border-left: 4px solid #f66;
+        background: #ffebeb;
     }
     .tip:before {
         position: absolute;
