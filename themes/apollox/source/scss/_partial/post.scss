@@ -127,7 +127,7 @@
         position: absolute;
         top: 14px;
         left: -12px;
-        content: "";
+        content: "";
         width: 20px;
         height: 20px;
         border-radius: 100%;
@@ -137,17 +137,17 @@
         font-weight: bold;
         text-align: center;
         background-color: #28a745;
-        font-family: 'Helvetica Neue', Arial, sans-serif, 'Hack Nerd Font';
+        font-family: 'Helvetica Neue', Arial, sans-serif, 'icon';
     }
     .tip.warn:before {
-        content: "";
+        content: "";
         padding: 1px;
         left: -13px;
         border-radius: 20%;
         background-color: #ffc107;
     }
     .tip.error::before {
-        content: '';
+        content: '';
         padding: 1px;
         left: -13px;
         border-radius: 20%;
@@ -172,7 +172,7 @@ code,
 pre {
     font-size: 0.8em;
     background-color: #f8f8f8;
-    font-family: 'Roboto Mono', Monaco, courier, monospace, 'Hack Nerd Font';
+    font-family: 'Roboto Mono', Monaco, courier, monospace, 'icon';
 }
 
 .highlight {
