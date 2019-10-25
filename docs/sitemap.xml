@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.slicloud.com:38876/2019/09/29/contribute/</loc>
+    <loc>http://www.slicloud.com:38876/2019/10/16/Deploy-Kubernetes-by-kubeadm/</loc>
     
-    <lastmod>2019-10-08T04:18:51.572Z</lastmod>
+    <lastmod>2019-10-17T06:31:08.373Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.slicloud.com:38876/2019/09/15/About/</loc>
     
-    <lastmod>2019-09-29T04:32:17.005Z</lastmod>
+    <lastmod>2019-10-17T05:57:30.655Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/09/29/contribute/</loc>
+    
+    <lastmod>2019-10-17T05:57:25.563Z</lastmod>
     
   </url>
   

@@ -2,7 +2,7 @@
 title: Contribute
 date: 2019-09-29 12:11:11
 tags:
-author: 程庆林
+author: muxin
 ---
 
 This guide is a comprehensive resource for contribute to [imuxin's blog](https://github.com/imuxin/blog) - for both new and experienced contributors. If you got any good ideas, I welcome your contributions to this blog.
