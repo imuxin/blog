@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.slicloud.com:38876/2019/10/28/OAuth2-0-and-OpenID-Connect/</loc>
+    
+    <lastmod>2019-10-28T04:37:54.552Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.slicloud.com:38876/2019/10/16/Deploy-Kubernetes-by-kubeadm/</loc>
     
     <lastmod>2019-10-17T06:31:08.373Z</lastmod>

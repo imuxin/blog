@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://www.slicloud.com:38876/"/>
-  <updated>2019-10-17T06:31:08.373Z</updated>
+  <updated>2019-10-28T04:37:54.552Z</updated>
   <id>http://www.slicloud.com:38876/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OAuth2.0 and OpenID Connect</title>
+    <link href="http://www.slicloud.com:38876/2019/10/28/OAuth2-0-and-OpenID-Connect/"/>
+    <id>http://www.slicloud.com:38876/2019/10/28/OAuth2-0-and-OpenID-Connect/</id>
+    <published>2019-10-28T04:33:43.000Z</published>
+    <updated>2019-10-28T04:37:54.552Z</updated>
+    
+    <content type="html"><![CDATA[<p>Here is the abstract of the post.</p><a id="more"></a><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ol><li><a href="https://tools.ietf.org/html/rfc6749" target="_blank" rel="noopener">The OAuth 2.0 Authorization Framework</a></li><li><a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopener">JSON Web Token (JWT)</a></li><li><a href="https://tools.ietf.org/html/rfc7515" target="_blank" rel="noopener">JSON Web Signature (JWS)</a></li><li><a href="https://tools.ietf.org/html/rfc7516" target="_blank" rel="noopener">JSON Web Encryption (JWE)</a></li><li><a href="https://pyjwt.readthedocs.io/en/latest/index.html" target="_blank" rel="noopener">Welcome to PyJWT</a></li><li><a href="https://www.ory.sh/docs/hydra/oauth2#openid-connect" target="_blank" rel="noopener">[Hydra] OAuth 2.0 and OpenID Connect</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Here is the abstract of the post.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Deploy Kubernetes on Ubuntu 18.04 LTS by kubeadm</title>
