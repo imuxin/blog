@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.slicloud.com:38876/2019/11/01/Dive-into-WebAssembly-WASM/</loc>
+    <loc>http://www.slicloud.com:38876/2019/09/15/About/</loc>
     
-    <lastmod>2019-11-01T09:22:23.274Z</lastmod>
+    <lastmod>2019-12-13T07:09:50.117Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.slicloud.com:38876/2019/10/29/climb-climb-climb/</loc>
     
-    <lastmod>2019-10-30T04:28:44.763Z</lastmod>
+    <lastmod>2019-12-13T02:37:16.189Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/11/14/CPython-Objects-obmalloc-c-small-object-memory-allocation/</loc>
+    
+    <lastmod>2019-11-14T15:14:23.199Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/11/07/Web-IDE/</loc>
+    
+    <lastmod>2019-11-07T05:05:02.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/11/01/Dive-into-WebAssembly-WASM/</loc>
+    
+    <lastmod>2019-11-05T10:55:18.233Z</lastmod>
     
   </url>
   
@@ -26,13 +47,6 @@
     <loc>http://www.slicloud.com:38876/2019/10/16/Deploy-Kubernetes-by-kubeadm/</loc>
     
     <lastmod>2019-10-17T06:31:08.373Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.slicloud.com:38876/2019/09/15/About/</loc>
-    
-    <lastmod>2019-10-17T05:57:30.655Z</lastmod>
     
   </url>
   

@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "docs": "rm -rfv docs && hexo generate",
-    "start": "hexo server"
+    "start": "hexo server",
+    "debug": "cd themes/apollox/ && npm run sass && cd - && npm run start "
   },
   "hexo": {
     "version": "3.9.0"

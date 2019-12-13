@@ -22,3 +22,4 @@ WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based 
 8. Rust, WebAssembly, and the future of Serverless by Steve Klabnik <https://www.youtube.com/watch?v=CMB6AlE1QuI&feature=youtu.be>
 9. WebAssembly Literacy <http://pop.frontendweekly.co/W2Q9ho>
 10. WebAssembly Interface Types: Interoperate with All the Things! <https://hacks.mozilla.org/2019/08/webassembly-interface-types/>
+11. compiling python to webassembly <https://stackoverflow.com/questions/44761748/compiling-python-to-webassembly>

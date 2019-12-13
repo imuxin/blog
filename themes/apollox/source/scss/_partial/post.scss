@@ -30,6 +30,92 @@
     }
 }
 
+// post-toc part.
+@media screen and (min-width: 1140px) {
+    .post-toc {
+        width: 18%;
+        position: fixed;
+        top: 160px;
+        right: 0;
+        bottom: 12px;
+        font-size: 0.8rem;
+        padding-left: 10px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        ol {
+            list-style-type: none;
+            margin: 0;
+            padding: 0 8px 0 0;
+        }
+        ol.toc > :first-child::before {
+            top: 13px;
+        }
+        // ol.toc > :last-child::before {
+        //     bottom: calc(100% - 14px);
+        // }
+        ol.toc{
+            :last-child::before {
+                bottom: calc(100% - 14px);
+            }
+            :only-child::before {
+                // bottom: calc(200px - 100%) !important;
+                bottom: 14px;
+            }
+        }
+
+        li {
+            box-sizing: border-box;
+            line-height: 1.6rem;
+            padding: 3px 0 3px 12px;
+            position: relative;
+            transition: all .3s ease-in-out;
+            a {
+                color: #5e5e5e;
+            }
+        }
+        li::before {
+            content: "";
+            border-left: 1px solid #dbdbdb;
+            bottom: 0;
+            left: 0;
+            position: absolute;
+            top: 0;
+            z-index: -1;
+        }
+        li.toc-level-2::before {
+            padding-left: 10px;
+        }
+        li.toc-level-3::before {
+            border-left: none;
+            padding-left: 38px;
+        }
+        li.activate > :first-child {
+            color: #1976d2;
+        }
+        li.activate > :first-child::before {
+            content: "";
+            border-radius: 50%;
+            left: -3px;
+            top: 12px;
+            font-weight: 500;
+            background: #1976d2;
+            position: absolute;
+            width: 6px;
+            height: 6px;
+        }
+        li.toc-level-3.activate > :first-child::before {
+            left: -15px;
+        }
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .post-toc {
+        display: none;
+    }
+}
+
+
 .post-content {
     h2 {
         position: relative;
