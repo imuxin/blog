@@ -9,7 +9,7 @@ Here is the abstract of the post.
 
 <!-- more -->
 
-## Reference
+## References
 
 1. <https://news.ycombinator.com/item?id=17321921>
 2. <https://github.com/styfle/awesome-online-ide>
