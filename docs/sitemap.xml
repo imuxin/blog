@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.slicloud.com:38876/2019/09/15/About/</loc>
+    <loc>http://www.slicloud.com:38876/2019/09/29/contribute/</loc>
     
-    <lastmod>2019-12-13T07:09:50.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.slicloud.com:38876/2019/10/29/climb-climb-climb/</loc>
-    
-    <lastmod>2019-12-13T02:37:16.189Z</lastmod>
+    <lastmod>2020-03-23T07:18:42.552Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.slicloud.com:38876/2019/11/14/CPython-Objects-obmalloc-c-small-object-memory-allocation/</loc>
     
-    <lastmod>2019-11-14T15:14:23.199Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.slicloud.com:38876/2019/11/07/Web-IDE/</loc>
-    
-    <lastmod>2019-11-07T05:05:02.846Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.slicloud.com:38876/2019/11/01/Dive-into-WebAssembly-WASM/</loc>
-    
-    <lastmod>2019-11-05T10:55:18.233Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.slicloud.com:38876/2019/10/28/OAuth2-0-and-OpenID-Connect/</loc>
-    
-    <lastmod>2019-10-28T04:37:54.552Z</lastmod>
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.slicloud.com:38876/2019/10/16/Deploy-Kubernetes-by-kubeadm/</loc>
     
-    <lastmod>2019-10-17T06:31:08.373Z</lastmod>
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.slicloud.com:38876/2019/09/29/contribute/</loc>
+    <loc>http://www.slicloud.com:38876/2019/11/01/Dive-into-WebAssembly-WASM/</loc>
     
-    <lastmod>2019-10-17T05:57:25.563Z</lastmod>
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/10/28/OAuth2-0-and-OpenID-Connect/</loc>
+    
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/11/07/Web-IDE/</loc>
+    
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/10/29/climb-climb-climb/</loc>
+    
+    <lastmod>2020-03-23T07:18:42.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.slicloud.com:38876/2019/09/15/About/</loc>
+    
+    <lastmod>2020-03-23T07:18:42.528Z</lastmod>
     
   </url>
   
